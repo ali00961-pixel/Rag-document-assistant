@@ -75,10 +75,6 @@ python rag.py
 
 ### 1. A question answered from the documents
 
-**Question:** What is the main idea in agentic? Give me the main points in these articles.
-
-![Question answered from the documents](screenshots/first_question.png)
-
 The answer is generated from the retrieved chunks, and the sources panel shows which PDF each chunk came from.
 ## Sample questions and output
 
